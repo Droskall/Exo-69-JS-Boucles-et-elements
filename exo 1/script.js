@@ -10,3 +10,7 @@ function createSpanElement(id, texte, parent ) {
 }
 
 createSpanElement("liste-commissions", "Des bonbons",liste);
+
+/*
+* Petite erreur de ma part le champ pour saisir le texte est dans l'autre fichier "app.js"
+ */
